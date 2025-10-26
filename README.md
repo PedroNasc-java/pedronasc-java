@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Pedro Victor
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor em Desenvolvimento`**
 
 Olá me chamo Pedro, tenho 27 anos e sou natural de São Paulo. Concluí a faculdade de análise de sistemas. Atualmente, estou estudando JAVA por conta própria. Sou fascinado pelo tecnologia em sí, mas há algo que me chama atenção sobre trabalhar nos bastidores, o trabalho invisivel do back-end em grandes sistemas. 
 Serei o melhor programador em Java esse é meu jeito Dev de ser!
